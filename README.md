@@ -30,6 +30,11 @@ The purpose of Project X2010 is to:
 - Allow fans to experience the classic Xbox Hub again
 - Practice mobile UI development and recreation techniques
 
+## Compile Guide
+
+This project is hard to compile, since I'm beginner of making android apps so I don't use Android Studio yet
+To compile this project you need to use [html2apk.com](https://html2app.dev/)
+
 ## 📷 Screenshots
 
 Not done yet xD
