@@ -33,7 +33,7 @@ The purpose of Project X2010 is to:
 ## Compile Guide
 
 This project is hard to compile, since I'm beginner of making android apps so I don't use Android Studio yet
-To compile this project you need to use [html2apk.com](https://html2app.dev/)
+To compile this project you need to use [html2apk.com](https://html2app.dev/) or some random converter idk but you could also create one in android studio and pull request if you want :)
 
 ## 📷 Screenshots
 
